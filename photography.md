@@ -4,24 +4,45 @@
 My most prominant photography style involves a straight shot. I would say this 
 is an idiomatic example of the "shape" of this style:
 
-https://www.instagram.com/p/BvD-YjwnNjs/
+<p align="center">
+  <img src="photos/straight-shot-idiomatic.png" alt="" width="60%"/>
+</p>
+<p align="center">
+  https://www.instagram.com/p/BvD-YjwnNjs/  
+</p>
 
 It looks like a hallway you're looking straight down. This lens angle comes up a lot. Here is another example:
 
-https://www.instagram.com/p/BbTbsOaFC6I/
+<p align="center">
+  <img src="photos/straight-shot-bus-stop.png" alt="" width="60%"/>
+</p>
+<p align="center">
+  https://www.instagram.com/p/BbTbsOaFC6I/
+</p>
 
 The look comes in part from the camera being completely vertical, with the center of the hallway in the middle of the shot.
 
-https://www.instagram.com/p/Bt0Mc6snFvu/
+<p align="center">
+  <img src="photos/straight-shot-dancers.png" alt="" width="60%"/>
+</p>
+<p align="center">
+  https://www.instagram.com/p/Bt0Mc6snFvu/
+</p>
 
 ## Small subject / big sky
 
-The last photo also involves another characteristic of a lot of my shots, 
+The last photo (dancers) also involves another characteristic of a lot of my shots, 
 and that is a small subject in the bottom half of the frame. For example:
 
-https://www.instagram.com/p/BoqYMu5Abp5/
+<p align="center">
+  <img src="photos/straight-shot-soccer-field.png" alt="" width="60%"/>
+</p>
+<p align="center">
+  https://www.instagram.com/p/BoqYMu5Abp5/
+</p>
 
-I've purposefully started to push away from this style, but I still like it. 
+I've purposefully started to avoid using the straight-shot style, to develop other ways of seeing, 
+but I still like it and use it regularly.
 
 ## Portraits
 
