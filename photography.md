@@ -129,3 +129,14 @@ with sequences of photos and in the cropping / composition of each piece:
 <p align="center">
   https://www.instagram.com/p/B0nCJ8fldft/
 </p>
+
+## Selections
+
+Dec 31, 2018:
+
+<p align="center">
+  <img src="photos/portfolio-olympia.png" alt="" width="60%"/>  
+</p>
+<p align="center">
+  https://www.instagram.com/p/BsE0M0aHUE2/
+</p>
