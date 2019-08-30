@@ -119,4 +119,13 @@ Or:
 I am currently experimenting with storytelling through photography, both 
 with sequences of photos and in the cropping / composition of each piece:
 
-https://www.instagram.com/p/B0nCJ8fldft/
+<p align="center">
+  <img src="photos/story-taos-1.jpg" alt="" width="19%"/>
+  <img src="photos/story-taos-2.jpg" alt="" width="19%"/>
+  <img src="photos/story-taos-3.jpg" alt="" width="19%"/>
+  <img src="photos/story-taos-4.jpg" alt="" width="19%"/>
+  <img src="photos/story-taos-5.jpg" alt="" width="19%"/>
+</p>
+<p align="center">
+  https://www.instagram.com/p/B0nCJ8fldft/
+</p>
