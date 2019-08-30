@@ -1,0 +1,1 @@
+photos folder, for photos
