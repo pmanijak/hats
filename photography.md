@@ -94,9 +94,25 @@ and anyway here is a photo that I like:
 ## Novelties
 
 Occasionally I do enjoy trying to capture novel perspectives that each
-lens allows, but it is a lot of work. We can do things like this:
+lens allows, but it is a lot of work and somewhat exhausting. 
 
-https://www.instagram.com/p/ByRUHXVFlSL/
+We can do things like this:
+
+<p align="center">
+  <img src="photos/ultra-wide-bees.png" alt="" width="60%"/>
+</p>
+<p align="center">
+  https://www.instagram.com/p/ByRUHXVFlSL/
+</p>
+
+Or:
+
+<p align="center">
+  <img src="photos/macro-fly.png" alt="" width="60%"/>
+</p>
+<p align="center">
+  https://www.instagram.com/p/ByChvkhF5-Q/
+</p>
 
 ## Storytelling
 
