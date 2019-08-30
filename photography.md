@@ -71,10 +71,30 @@ their photo taken, but I enjoy taking photos of most people:
   https://www.instagram.com/p/ByPPk9HlE3h/
 </p>
 
+## Dance
+
+I am actively exploring how to take photos of dancing, adjusting lenses and approaches. 
+I have a lot to say about dance, for another time, but like my portrait work, 
+I try to capture genuine facial expressions in a positive light.
+
+<p align="center">
+  <img src="photos/dance-down-and-up.png" alt="" width="60%"/>
+</p>
+<p align="center">
+  https://www.instagram.com/p/BuVaT4GHLRA/
+</p>
+
+I feel that a lot of dance is about having fun with the mix of certainty and uncertainty in the moment,
+and anyway here is a photo that I like:
+
+<p align="center">
+  <img src="photos/dance-excited-and-nervous.png" alt="" width="60%"/>
+</p>
+
 ## Novelties
 
 Occasionally I do enjoy trying to capture novel perspectives that each
-lens allows, but it is a lot of work:
+lens allows, but it is a lot of work. We can do things like this:
 
 https://www.instagram.com/p/ByRUHXVFlSL/
 
