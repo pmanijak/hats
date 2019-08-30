@@ -130,6 +130,15 @@ with sequences of photos and in the cropping / composition of each piece:
   https://www.instagram.com/p/B0nCJ8fldft/
 </p>
 
+## Time ambiguity
+
+A recent hobby has been to try to take photos where the year / decade is ambiguous. 
+These are often in black and white to push the ambiguity.
+
+<p align="center">
+  <img src="photos/time-beach.jpg" alt="" width="60%"/>  
+</p>
+
 ## Selections
 
 Dec 31, 2018:
