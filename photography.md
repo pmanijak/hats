@@ -51,15 +51,25 @@ the iPhone SE. With access to new lenses, I started to explore the things
 they made it easier to do.
 
 Largely, taking portraits has been about reading or empathizing with the
-subject and trying to capture something real in there:
+subject and trying to capture something real in there. I like trying 
+to capture genuine facial expressions, whether subtle or dramatic.
 
-https://www.instagram.com/p/BxmcXFJF2iV/
+<p align="center">
+  <img src="photos/portrait-never-come-down.png" alt="" width="60%"/>
+</p>
+<p align="center">
+  https://www.instagram.com/p/BwwRse0nuwd/
+</p>
 
-I enjoy trying to watch people and get shots of any genuine expression. 
 My subjects are mostly bands because they don't seem to mind getting
 their photo taken, but I enjoy taking photos of most people:
 
-https://www.instagram.com/p/ByPPk9HlE3h/
+<p align="center">
+  <img src="photos/portrait-annie-leibovitz.png" alt="" width="60%"/>
+</p>
+<p align="center">
+  https://www.instagram.com/p/ByPPk9HlE3h/
+</p>
 
 ## Novelties
 
